@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Портфолио",
+    "version": "v1",
+    "url": "da1loks.ru",
+    "icon": "✨",
+    "type": "personal",
+    "technologies": [
+      {
+        "name": "React",
+        "version": "18.2.0",
+        "icon": "@/react.svg"
+      }
+    ],
+    "status": {
+      "state": "Не готов",
+      "label": "В разработке"
+    },
+    "production": "Получает обновления",
+    "description": "Мой сайт-портфолио! Планирую обновлять его в дальнейшем, многостраничный сайт, исходный код закрыт."
+  }
+] 
